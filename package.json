@@ -1,6 +1,6 @@
 {
   "name": "create-roc",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Create Roc projects using the Yarn CLI",
   "bin": "index.js",
   "keywords": [
