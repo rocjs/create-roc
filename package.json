@@ -1,0 +1,15 @@
+{
+  "name": "create-roc",
+  "version": "0.1.0",
+  "description": "Create Roc projects using the Yarn CLI",
+  "bin": "index.js",
+  "keywords": [
+    "roc",
+    "create"
+  ],
+  "author": "Gustaf Dalemar",
+  "license": "MIT",
+  "dependencies": {
+    "roc": "^1.0.0-rc.20"
+  }
+}
